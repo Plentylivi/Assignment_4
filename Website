@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>This is about me</title>
+  </head>
+  <body style="background-color: White">
+    <h1 style="font-family: Impact; Color: Purple">How I came to Weber State</h1>
+    <p style="color: Black">I was referred to Weber State by a friend from High School who came here to study physics. I wasn't sure where I wanted to go to college at the time,<br> so she reccomended that I give Weber a try. I signed up for classes in Spring of 2017 and it has been a wild ride ever since.</br></p>
+     <img src="WeberLogo.png" /> <img src="profile1.jpg" />
+	 <br>
+     <a href="https://www.weber.edu/">Weber State Website</a>
+	 <br>
+	 <a href="https://apps.weber.edu/calendars/calendars.aspx">Academic Calendar</a>
+     
+     <table>
+      <tr>
+		<td>I signed up for classes barely two weeks before they started, everything was rushed.<br> My first semester was hectic and confusing, I remember it raining almost every day.</br></td>
+        <p> <h1 style="font-family: Bebas">Getting Started</p>
+      </tr>
+      <tr>
+		<td>My next couple of semesters went a lot smoother and I met many awesome teachers and friends along the way.<br>It took a little while to get out of my shell, but I haven't looked back ever since I did</br></td>
+	  </tr>
+	  <tr>
+		<td>Right now I am on the homestretch to a degree. It has been a lot of stress but also a lot of fun. I will miss Weber State.</td>
+	  </tr>
+  </body>
+</html>
